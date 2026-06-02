@@ -13,10 +13,10 @@ City | Gender | Age Group | Bank | Payment Method | Transaction Type
 ## Tools
 Power BI Desktop | DAX
 
-## File
-`dashboard.pbix`
 
 ## Files
--  (<UPI TRANSACTION.pbix>)– Power BI Dashboard
-   ` – Project Report
-- 
+
+## Files
+- [UPI TRANSACTION.pbix](UPI%20TRANSACTION.pbix) – Power BI Dashboard
+- [UPI Transactions Analysis Dashboard Report.docx](UPI%20Transactions%20Analysis%20Dashboard%20Report.docx) – Project Report
+
